@@ -1,0 +1,5 @@
+streamlit==1.26.0
+transformers==4.34.0
+langchain==0.0.318
+python-docx==0.8.11
+concurrent.futures==0.0.5
